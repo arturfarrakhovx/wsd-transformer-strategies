@@ -1,0 +1,5 @@
+All jsonl files with test data are taken from https://github.com/akranlu/wsd-data, which is a repository with a script for converting original XML files to jsonl format. 
+Source of original files: http://lcl.uniroma1.it/wsdeval/home
+Alessandro Raganato, Jose Camacho-Collados and Roberto Navigli.
+Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison.
+http://lcl.uniroma1.it/wsdeval/data/EACL17_WSD_EvaluationFramework.pdf
